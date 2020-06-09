@@ -13,3 +13,4 @@ csvcut -c 18 2007.csv | sort | uniq -c | sort -r -n | awk 'BEGIN {print "Dest","
 csvlook top3dest.csv
 
 
+echo "Manpreetkaur Amarjitsingh Pabla 100352666"

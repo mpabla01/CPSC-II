@@ -13,3 +13,5 @@ print("a) The first 3 of the Arrival Delay data for the flights that depart from
 b = df['Dest'].value_counts().head(3)
 
 print("b) The top 3 destination airports with the count of arriving planes: \n", b)
+
+print("Manpreetkaur Amarjitsingh Pabla 100352666")
